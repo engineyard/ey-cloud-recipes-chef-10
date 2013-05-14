@@ -1,2 +1,2 @@
-# Include PHP recipes
-include_recipe "php"
+# Downgrade to PHP 5.3
+#include_recipe "php::php53"
