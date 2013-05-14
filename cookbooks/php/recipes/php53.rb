@@ -1,3 +1,7 @@
+ey_cloud_report "php53" do
+  message "Downgrading to PHP 5.3"
+end
+
 package "dev-lang/php" do
   version "5.3.24"
   action :install
