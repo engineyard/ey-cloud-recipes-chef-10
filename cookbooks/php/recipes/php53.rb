@@ -3,7 +3,7 @@ ey_cloud_report "php53" do
 end
 
 package "dev-lang/php" do
-  version "5.3.24"
+  version "5.3.27"
   action :install
 end
 
